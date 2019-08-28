@@ -1,1 +1,3 @@
-# victoria_2-century_gothic_font_2-century_gothic_font
+# Victoria 2 - Century Gothic Font
+
+This mod changes the interface fonts to Century Gothic.
