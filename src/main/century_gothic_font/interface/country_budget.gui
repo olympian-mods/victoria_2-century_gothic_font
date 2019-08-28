@@ -436,7 +436,7 @@ guiTypes = {
 		}
 		instantTextBoxType = { 
 			name = "mil_cost_val"
-			position = { x = 752  y = 81 }
+			position = { x = 748  y = 81 }
 			font = "Arial12_black"
 			text = "0¤"	
 			maxWidth = 60
