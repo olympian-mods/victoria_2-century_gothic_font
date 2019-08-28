@@ -11,4 +11,4 @@ This mod changes the interface fonts to Century Gothic.
 ## Example Screenshots
 
 ![Screenshot 1](/src/resources/screen_01.png?raw=true "Screenshot 1")
-![Screenshot 2](/src/resources/screen_01.png?raw=true "Screenshot 2")
+![Screenshot 2](/src/resources/screen_02.png?raw=true "Screenshot 2")
