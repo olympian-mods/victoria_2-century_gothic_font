@@ -1,0 +1,9 @@
+bitmapfonts = {
+
+	bitmapfont = {
+		name = "mapfont_56_small"
+		fontname = "mapfont_56_small"
+		color = 0xff000000
+	}
+
+}
