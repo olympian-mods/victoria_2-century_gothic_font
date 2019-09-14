@@ -108,13 +108,13 @@ guiTypes = {
 		iconType = {
 			name = "plurality"
 			spriteType = "GFX_politics_pluralism"
-			position = { x = 290 y = 46 }
+			position = { x = 310 y = 46 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = { 
 			name = "plurality_value"
-			position = { x = 290 y = 66 }
+			position = { x = 310 y = 66 }
 			font = "Arial12_black"
 			text = "100%"	
 			maxWidth = 40
@@ -124,13 +124,13 @@ guiTypes = {
 		iconType = {
 			name = "revanchism"
 			spriteType = "GFX_politics_revanchism"
-			position = { x = 318 y = 46 }
+			position = { x = 340 y = 45 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = { 
 			name = "revanchism_value"
-			position = { x = 318 y = 66 }
+			position = { x = 340 y = 66 }
 			font = "Arial12_black"
 			text = "100%"	
 			maxWidth = 40
