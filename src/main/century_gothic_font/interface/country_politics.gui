@@ -114,11 +114,12 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "plurality_value"
-			position = { x = 310 y = 66 }
+			position = { x = 302 y = 66 }
 			font = "Arial12_black"
 			text = "100%"	
 			maxWidth = 40
-			maxHeight = 30	
+			maxHeight = 30
+			format = centre
 		}	
 
 		iconType = {
@@ -130,11 +131,12 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "revanchism_value"
-			position = { x = 340 y = 66 }
+			position = { x = 332 y = 66 }
 			font = "Arial12_black"
 			text = "100%"	
 			maxWidth = 40
-			maxHeight = 30	
+			maxHeight = 30
+			format = centre
 		}			
 
 		instantTextBoxType = { 
