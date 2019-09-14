@@ -166,7 +166,7 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "can_do_political_reforms"
-			position = { x = 200 y = 211 }
+			position = { x = 197 y = 211 }
 			font = "Arial12_black"
 			text = "POLITICS_CAN_DO_POLITICAL_REFORMS"	
 			maxWidth = 250
