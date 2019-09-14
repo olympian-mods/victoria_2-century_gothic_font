@@ -101,7 +101,7 @@ guiTypes = {
 			position = { x = 63 y = 49 }
 			font = "Arial12_black"
 			text = "GOVERNMENT_DESC"	
-			maxWidth = 200
+			maxWidth = 240
 			maxHeight = 30	
 		}
 		
