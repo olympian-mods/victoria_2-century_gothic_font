@@ -495,7 +495,7 @@ guiTypes = {
 			name ="leaderlist"
 			position = { x = 4 y = 10 }
 			backGround=""
-			size = { x=543  y =360}
+			size = { x=558  y =360}
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
